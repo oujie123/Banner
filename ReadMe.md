@@ -1,0 +1,2 @@
+1.使用ViewPager实现无线轮播效果
+2.ViewPager懒加载机制
